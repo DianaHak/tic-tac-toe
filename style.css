@@ -28,3 +28,15 @@ h2,div{
     width: 225px;
     margin: auto;
 }
+button{
+    padding: 10px;
+  background: #874CCC;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+button:hover{
+    background-color: white;
+  color: #874CCC;
+
+}
